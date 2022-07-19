@@ -27,6 +27,7 @@ export default class ShowToastComp extends LightningElement {
         fields[ID_FIELD.fieldApiName] = this.recordId;
         const recordInput = { fields };
 
+        
         updateRecord(recordInput)
             .then(() => {
                 // return refreshApex(this.contact);
