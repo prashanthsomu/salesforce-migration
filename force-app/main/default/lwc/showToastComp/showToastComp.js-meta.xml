@@ -13,5 +13,5 @@
          <property name = 'toastMessage' type = 'String' default = "" label = "Enter the toast message"/>
          <property name = 'toastVariant' type = 'String' default = "" label = "Enter the toast varient type"/>
          </targetConfig>
-    </targetConfigs>
+    </targetConfigs> 
 </LightningComponentBundle>
